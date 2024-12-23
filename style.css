@@ -529,7 +529,7 @@ body.dark-mode .project-card:hover{
 .contact {
     padding: 40px 20px;
      margin-top: 20px;
-     background: rgba(255, 255, 255, 0.5);
+     background: transparent ;
      border-radius: 8px;
      animation: slideInDown 1s ease-out;
 }
@@ -545,7 +545,7 @@ body.dark-mode .project-card:hover{
 }
 
 body.dark-mode .contact {
-      background: rgba(0, 0, 0, 0.5);
+      background: transparent;
 }
 
 .contact h2{
