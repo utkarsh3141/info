@@ -529,7 +529,7 @@ body.dark-mode .project-card:hover{
 .contact {
     padding: 40px 20px;
      margin-top: 20px;
-      background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
+     background: rgba(255, 255, 255, 0.5);
      border-radius: 8px;
      animation: slideInDown 1s ease-out;
 }
@@ -545,7 +545,7 @@ body.dark-mode .project-card:hover{
 }
 
 body.dark-mode .contact {
-      background: linear-gradient(135deg, #1a237e, #311b92);
+      background: rgba(0, 0, 0, 0.5);
 }
 
 .contact h2{
